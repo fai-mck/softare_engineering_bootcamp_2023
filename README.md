@@ -1,4 +1,4 @@
-Final Capstone project
+capstone_1_.py project
 This program is a task manager which enables the user to add task, generate reports and dsiaplay statistics related to those tasks.
 
 **INSTALLATION**
