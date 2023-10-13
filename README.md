@@ -1,5 +1,5 @@
 capstone_1_.py project
-This program is a task manager which enables the user to add task, generate reports and dsiaplay statistics related to those tasks.
+This program is a task manager which enables the user to add task, generate reports and display statistics related to those tasks.
 
 **INSTALLATION**
 This program needs to be downloaded along with the two text files 'tasks.txt' and 'user.txt'.
